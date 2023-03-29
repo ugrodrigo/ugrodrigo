@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **statistical modelling, machine learning and artificial intelligence.**
 
-- 👨‍💻 All of my projects are available at [www.RodrigoGuskuma.com](www.RodrigoGuskuma.com)
+- 👨‍💻 All of my projects are available at [www.RodrigoGuskuma.com](https://www.RodrigoGuskuma.com)
 
 - 📝 I regularly write articles on [TBD](TBD)
 
