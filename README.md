@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **statistical modelling, machine learning and artificial intelligence.**
 
 - 👨‍💻 All of my projects are available at [www.RodrigoGuskuma.com](https://www.RodrigoGuskuma.com)
-
-- 📝 I regularly write articles on [TBD](TBD)
+<!-- - 📝 I regularly write articles on [TBD](TBD) -->
 
 - 💬 Ask me about **Python, SQL, Google Ads, Meta Ads and Marketing.**
 
