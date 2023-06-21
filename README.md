@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Guskuma</h1>
-<h3 align="center">A passionate Growth Marketer & Data Analyst from Brazil.</h3>
+<h3 align="center">A passionate Growth Data Analyst from Brazil.</h3>
 
 - 🌱 I’m currently learning **statistical modelling, machine learning and artificial intelligence.**
 
