@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rodrigo-guskuma/](https://www.linkedin.com/in/rodrigo-guskuma/)
 
-- ⚡ Fun fact **I like to surf and play guitar**
+- ⚡ Fun fact **I like to surf, DJing, and play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
