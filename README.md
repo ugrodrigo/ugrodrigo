@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Guskuma</h1>
-<h3 align="center">A passionate Data Analyst from Brazil eager to be a Data Scientist.</h3>
+<h3 align="center">A passionate Marketing Analytics Manager from Brazil eager to be a Data Scientist.</h3>
 
 - 🌱 I’m currently learning **statistical modeling, machine learning, and artificial intelligence.**
 
 <!-- - 👨‍💻 All of my projects are available at [www.RodrigoGuskuma.com](https://www.RodrigoGuskuma.com) -->
 <!-- - 📝 I regularly write articles on [TBD](TBD) -->
 
-- 💬 Ask me about **Python, SQL, Google Ads, Meta Ads, and Marketing.**
+- 💬 Ask me about **Machine Learning, Artificial Intelligence, Data Engineering, SQL, Python, Data Vizz and Marketing.**
 
 - 📫 How to reach me **ug.rodrigo@gmail.com**
 
