@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Guskuma</h1>
-<h3 align="center">A passionate Growth Manager | Martech, Marketing Analytics & Ops from Brazil.</h3>
+<h3 align="center">A passionate Growth Manager | Martech, Marketing Analytics & Ops currently working in Germany</h3>
 
 - 🌱 I’m currently learning **statistical modeling, machine learning, and artificial intelligence.**
 
