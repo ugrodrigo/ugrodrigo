@@ -8,7 +8,7 @@
 <!-- - 📝 I regularly write articles on [TBD](TBD) -->
 
 - 💬 Ask me about:
-  - **Statistical Modeling, Machine Learning, and Artificial Intelligence.**
+  - **Statistical Modeling, Machine Learning and Artificial Intelligence.**
   - **Data Science, Data Engineering, Data Viz, SQL, Python, Product and Marketing.**
 
 - 📫 How to reach me **ug.rodrigo@gmail.com**
