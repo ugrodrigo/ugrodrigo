@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Guskuma</h1>
 <h3 align="center">A passionate Senior Data Analyst | Product, Martech, Marketing Analytics & Ops Manager currently working in Germany</h3>
 
-- 🌱 I’m learning **statistical modeling, machine learning, and artificial intelligence.**
+<!-- - 🌱 I’m learning **statistical modeling, machine learning, and artificial intelligence.** -->
 
 <!-- - 👨‍💻 All of my projects are available at [www.RodrigoGuskuma.com](https://www.RodrigoGuskuma.com) -->
 <!-- - 📝 I regularly write articles on [TBD](TBD) -->
 
-- 💬 Ask me about **Data Science, Data Engineering, Data Viz, SQL, Python, and Marketing.**
+- 💬 Ask me about:
+  - **Statistical Modeling, Machine Learning, and Artificial Intelligence.**
+  - **Data Science, Data Engineering, Data Viz, SQL, Python, Product and Marketing.**
 
 - 📫 How to reach me **ug.rodrigo@gmail.com**
 
